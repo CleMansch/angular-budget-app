@@ -1,3 +1,5 @@
+Bulma for CSS/SCSS form validation disables button curso changes to pointer dynamic class change depending on positive/negative value delete button hovering add button only clickable with input form resets after input modal for editin updating balance after changing elements
+
 # BudgetApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.4.
